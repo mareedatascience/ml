@@ -419,4 +419,4 @@ f.write(graph.create_png())
 f.close()
 ```
 
-See [tree5000.png](tree5000.png) for larger image.
+See [tree5000.png](../tree5000.png) for larger image.
