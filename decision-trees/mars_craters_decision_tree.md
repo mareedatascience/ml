@@ -1,3 +1,5 @@
+# Mars craters decision tree
+
 ![image](img/mars_craters_decision_tree.png)
 
 [Codebook for data used](data/Mars_Crater_Codebook.pdf)
@@ -19,4 +21,4 @@ Even with the substantial constraints on this tree, there were still nodes and l
 The confusion matrix looks like this:
 ![image](img/mars_craters_confusion_matrix.png)
 
-The code used can be found at: [Mars craters decision tree](decision-trees/mars_craters_decision_tree.ipynb)
+The code used can be found at: [Mars craters decision tree](mars_craters_decision_tree.ipynb)
